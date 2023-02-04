@@ -114,8 +114,7 @@
                                     <Trigger.EnterActions>
                                         <BeginStoryboard>
                                             <Storyboard>
-                                                <ColorAnimation
-                                                    Storyboard.TargetProperty="Background.(SolidColorBrush.Color)"
+                                                <ColorAnimation Storyboard.TargetProperty="Background.(SolidColorBrush.Color)"
                                                     To="#dbdbdb"
                                                     Duration="0:0:0.2" />
                                             </Storyboard>
@@ -124,8 +123,7 @@
                                     <Trigger.ExitActions>
                                         <BeginStoryboard>
                                             <Storyboard>
-                                                <ColorAnimation
-                                                    Storyboard.TargetProperty="Background.(SolidColorBrush.Color)"
+                                                <ColorAnimation Storyboard.TargetProperty="Background.(SolidColorBrush.Color)"
                                                     To="Transparent"
                                                     Duration="0:0:0.2" />
                                             </Storyboard>

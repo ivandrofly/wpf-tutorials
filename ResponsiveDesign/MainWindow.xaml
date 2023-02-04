@@ -11,7 +11,7 @@
         Title="Responsive Design" Height="450" Width="600"
         MinWidth="200">
     <Grid>
-        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
+        <ScrollViewer Grid.Row="" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
             <views:UserCardsGarethPanelView/>
         </ScrollViewer>
     </Grid>
