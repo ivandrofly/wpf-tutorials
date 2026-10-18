@@ -10,8 +10,4 @@
     <ProjectReference Include="..\MVVMEssentials\MVVMEssentials.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Models\" />
-  </ItemGroup>
-
 </Project>
